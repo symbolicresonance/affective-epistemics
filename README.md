@@ -21,7 +21,6 @@ You may:
 - Not remix, alter, or sell the material
 
 ## Contact
-Institute for a New Humanism through Adaptive Ethics  
-https://inhae.org
+Institute for a New Humanism through Adaptive Ethics [https://inhae.org](https://inhae.org)
 This work is published anonymously under the INHAE identity. For inquiries or citation questions, please refer to:
 [https://github.com/symbolicresonance/affective-epistemics](https://github.com/symbolicresonance/affective-epistemics)
