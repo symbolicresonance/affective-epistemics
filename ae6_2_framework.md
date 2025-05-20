@@ -2,7 +2,8 @@
 All rights reserved under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License.
 
 This document is part of the Affective Epistemics research initiative and may be shared freely under the CC BY-NC-ND 4.0 license. You may not remix or alter this work. Attribution required: Institute for a New Humanism through Adaptive Ethics (INHAE), 
-## This work is published anonymously under the INHAE identity. For inquiries or citation questions, please refer to:
+
+This work is published anonymously under the INHAE identity. For inquiries or citation questions, please refer to:
 [https://github.com/symbolicresonance/affective-epistemics](https://github.com/symbolicresonance/affective-epistemics)
 
 
