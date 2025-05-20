@@ -4,7 +4,7 @@ This repository contains the canonical theoretical documents of the **Institute 
 
 - `ae6_2_framework.md` – Affective Epistemics v6.2: The Canonical Ontology of Belief Modulation
 - `ae6_2_math_model.md` – Formal Model: Mathematical Formalization of Symbolic Field Theory
-- `ae6_2_sft.md` – Symbolic Field Theory: Modulation, Observation, and Recursive Belief Dynamics
+- `ae6_2_sft_paper.md` – Symbolic Field Theory: Modulation, Observation, and Recursive Belief Dynamics
 
 ## Purpose
 
