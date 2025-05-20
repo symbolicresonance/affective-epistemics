@@ -12,28 +12,18 @@ License details: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 # Living System Summary
 
-The Subject exists in an unstable environment of unknowable phenomena.  
-Through sensation, perturbations are transduced into affective biases.  
-Internal State dynamically modulates toward emotionally rewarding configurations,  
+The Subject exists in an unstable environment of unknowable phenomena.  Through sensation, perturbations are transduced into affective biases.  Internal State dynamically modulates toward emotionally rewarding configurations,  
 reinforced by both external symbolic fields and internal feedback loops.
 
-Beliefs, behaviors, and identities emerge as emotional survival strategies —  
-not as rational assessments of external truth.
+Beliefs, behaviors, and identities emerge as emotional survival strategies —  not as rational assessments of external truth.
 
-Symbolic systems act as vendors of emotional commodities,  
-supplying the emotional raw materials necessary for internal stabilization.
+Symbolic systems act as vendors of emotional commodities,  supplying the emotional raw materials necessary for internal stabilization.
 
-In the hyperreal saturation of the symbolic field, emotional reward dynamics supersede factual coherence,  
-creating Subjects who are stabilized by grievance, rage, fear, or domination  
-rather than peace or truth.
+In the hyperreal saturation of the symbolic field, emotional reward dynamics supersede factual coherence,  creating Subjects who are stabilized by grievance, rage, fear, or domination  rather than peace or truth.
 
-Thus, the construction of subjective reality is the dynamic emotional survival of the Subject within perceptual instability —  
-modulated by sensation, reinforced by symbolic architectures, and rationalized after the fact to maintain the myth of reason.  
+Thus, the construction of subjective reality is the dynamic emotional survival of the Subject within perceptual instability —  modulated by sensation, reinforced by symbolic architectures, and rationalized after the fact to maintain the myth of reason.  
 
-However, in rare moments, the system may achieve reflective suspension.  
-When symbolic coherence becomes perceptible as modulation — rather than truth —  
-the Subject may reweight behavior toward greater internal-external alignment.  
-This possibility, though structurally fragile, is ethically significant.
+However, in rare moments, the system may achieve reflective suspension.  When symbolic coherence becomes perceptible as modulation — rather than truth —  the Subject may reweight behavior toward greater internal-external alignment.  This possibility, though structurally fragile, is ethically significant.
 
 
 # Layer One: Core Ontology
