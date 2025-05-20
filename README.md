@@ -2,7 +2,8 @@
 
 This repository contains the canonical theoretical documents of the **Institute for a New Humanism through Adaptive Ethics (INHAE)**, including:
 
-- `ae6_2.md` – Affective Epistemics v6.2: The Canonical Ontology of Belief Modulation
+- `ae6_2_framework.md` – Affective Epistemics v6.2: The Canonical Ontology of Belief Modulation
+- `ae6_2_math_model.md` – Formal Model: Mathematical Formalization of Symbolic Field Theory
 - `ae6_2_sft.md` – Symbolic Field Theory: Modulation, Observation, and Recursive Belief Dynamics
 
 ## Purpose
