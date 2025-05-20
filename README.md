@@ -21,5 +21,5 @@ You may:
 
 ## Contact
 
-This work is published anonymously under the INHAE identity. For inquiries or citation questions, please refer to:  
-[https://symbolicresonance.github.io](https://symbolicresonance.github.io)
+This work is published anonymously under the INHAE identity. For inquiries or citation questions, please refer to:
+[https://github.com/symbolicresonance/affective-epistemics](https://github.com/symbolicresonance/affective-epistemics)
