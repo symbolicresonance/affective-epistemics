@@ -7,7 +7,7 @@ License details: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ---
 
-# Affective Epistemics Framework — (Canonical Structure v6.1)
+# Affective Epistemics Framework — (Canonical Structure v6.2)
 
 # Living System Summary
 
