@@ -87,5 +87,3 @@ This paper extends the Affective Epistemics framework to examine how Observer-Ge
 * Detailed analysis of specific Observer-Generator systems
 * Comparative assessment of field production techniques
 * Historical evolution of group modulation strategies
-
-m
