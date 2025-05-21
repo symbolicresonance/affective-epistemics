@@ -11,13 +11,13 @@ The materials are intended for researchers, theorists, designers, educators, sym
 
 ## License
 
-All documents are released under the [Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+© 2025 Institute for a New Humanism through Adaptive Ethics (INHAE)
+All rights reserved under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License.
 
-You may:
+This document is part of the Affective Epistemics research initiative and may be shared freely under the CC BY-NC-ND 4.0 license. You may not remix or alter this work. Attribution required: Institute for a New Humanism through Adaptive Ethics (INHAE), symbolicresonance.github.io
 
-- Read and share these documents freely  
-- Attribute the work to INHAE  
-- Not remix, alter, or sell the material
+License details: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
 
 ## Contact
 
