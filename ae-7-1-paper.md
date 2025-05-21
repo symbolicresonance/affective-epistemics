@@ -5,11 +5,11 @@ This document is part of the Affective Epistemics research initiative and may be
 
 License details: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-# Affective Field Epistemics: A Framework for Understanding Belief Formation and Symbolic Modulation
+# Affective Epistemics: A Framework for Understanding Belief Formation and Symbolic Modulation
 
 ## Abstract
 
-This paper introduces Affective Field Epistemics (AFE), a comprehensive theoretical framework that reconceptualizes belief formation as an interaction between symbolic fields and internal affective states. Drawing on field theory concepts, we propose that subjects exist within modulation fields where beliefs emerge not as stored representations but as dynamic resolutions shaped by emotional necessities. The framework consists of five interconnected layers: (1) Core Ontology of the Subject, (2) Symbolic Modulation and Identity, (3) The Conscious Engagement Process, (4) Symbol Space and Field Dynamics, and (5) Observer-Generator frameworks. This approach addresses significant limitations in traditional models of belief by accounting for context-dependent belief expression, emotional foundations of cognition, the continuous availability of conscious agency, and the strategic generation of symbolic fields. The framework offers both conceptual precision and mathematical formalization, generating testable predictions about how beliefs emerge, stabilize, and transform under different field conditions. By shifting from representational to field-based understandings of belief, AFE provides new pathways for research in cognitive science, social psychology, and media studies while offering ethical implications for symbolic environments.
+This paper introduces Affective Epistemics (AE), a comprehensive theoretical framework that reconceptualizes belief formation as an interaction between symbolic fields and internal affective states. Drawing on field theory concepts, we propose that subjects exist within modulation fields where beliefs emerge not as stored representations but as dynamic resolutions shaped by emotional necessities. The framework consists of five interconnected layers: (1) Core Ontology of the Subject, (2) Symbolic Modulation and Identity, (3) The Conscious Engagement Process, (4) Symbol Space and Field Dynamics, and (5) Observer-Generator frameworks. This approach addresses significant limitations in traditional models of belief by accounting for context-dependent belief expression, emotional foundations of cognition, the continuous availability of conscious agency, and the strategic generation of symbolic fields. The framework offers both conceptual precision and mathematical formalization, generating testable predictions about how beliefs emerge, stabilize, and transform under different field conditions. By shifting from representational to field-based understandings of belief, AE provides new pathways for research in cognitive science, social psychology, and media studies while offering ethical implications for symbolic environments.
 
 ## 1. Introduction: Beyond Storage Models of Belief
 
@@ -17,7 +17,7 @@ Contemporary cognitive science and philosophy have predominantly conceptualized 
 
 These phenomena point to a more fundamental challenge: traditional models fail to account for the emotional foundations of belief. The rationalist presumption that humans form beliefs primarily through truth-seeking processes has become increasingly untenable in light of evidence from affective neuroscience, social psychology, and behavioral economics (Damasio, 1994; Haidt, 2012; Kahneman, 2011). 
 
-This paper introduces Affective Field Epistemics (AFE), which reconceptualizes belief formation through five interconnected layers:
+This paper introduces Affective Epistemics (AE), which reconceptualizes belief formation through five interconnected layers:
 
 1. **Core Ontology**: The Subject as an affectively-driven organism seeking emotionally rewarding configurations
 2. **Symbolic Modulation & Identity**: How identity and narrative emerge as emotional survival strategies
@@ -25,7 +25,7 @@ This paper introduces Affective Field Epistemics (AFE), which reconceptualizes b
 4. **Symbol Space and Field Dynamics**: The field-based understanding of symbolic interaction
 5. **Observer-Generator Framework**: How symbolic fields are strategically produced and deployed
 
-The central insight of AFE is that belief is not a matter of storing truth but of achieving emotional stabilization. Symbols do not carry meaning; they exert field effects that modulate internal affective states. This modulation occurs continuously, with the Subject typically unaware of the process while maintaining a constant (though rarely engaged) capacity for conscious steering.
+The central insight of AE is that belief is not a matter of storing truth but of achieving emotional stabilization. Symbols do not carry meaning; they exert field effects that modulate internal affective states. This modulation occurs continuously, with the Subject typically unaware of the process while maintaining a constant (though rarely engaged) capacity for conscious steering.
 
 This field-based approach offers new explanatory pathways for understanding belief phenomena that have challenged traditional models, including context-dependent belief expression, interpretive divergence, belief persistence despite contradictory evidence, and the mechanisms of manipulation and resistance in belief formation.
 
@@ -162,7 +162,7 @@ These constraints explain why large-scale symbolic systems (mass media, educatio
 
 ## 7. Mathematical Formalization
 
-While the conceptual framework provides an intuitive understanding of AFE, a mathematical formalization offers more precise definitions and relationships for rigorous analysis and testing.
+While the conceptual framework provides an intuitive understanding of AE, a mathematical formalization offers more precise definitions and relationships for rigorous analysis and testing.
 
 ### 7.1 Symbol Space and Field Functions
 
@@ -218,7 +218,7 @@ This mathematical formalization provides a framework for developing testable hyp
 
 ### 8.1 Belief Polarization
 
-When exposed to identical information, subjects often become more polarized rather than converging on a shared interpretation. AFE explains this through multiple mechanisms:
+When exposed to identical information, subjects often become more polarized rather than converging on a shared interpretation. AE explains this through multiple mechanisms:
 
 - Field-dependent modulation: The same symbolic content creates different field effects based on prior modulation history
 - Resonance amplification: Existing patterns strengthen rather than change when encountering related content
@@ -228,7 +228,7 @@ Studies by Lord et al. (1979) on biased assimilation, Bail et al. (2018) on poli
 
 ### 8.2 Context-Dependent Belief Expression
 
-Subjects often express different beliefs in different contexts. AFE explains this through:
+Subjects often express different beliefs in different contexts. AE explains this through:
 
 - Probe-dependent manifestation: Different questioning contexts activate different aspects of internal configuration
 - Field interference: Social contexts create modulatory fields that shape appropriate expressions
@@ -238,7 +238,7 @@ Research by Zaller and Feldman (1992) on survey response inconsistency, Tourange
 
 ### 8.3 Failed Fact Checking
 
-Traditional fact-checking often fails to change established beliefs. AFE explains this through:
+Traditional fact-checking often fails to change established beliefs. AE explains this through:
 
 - Emotional rather than epistemic foundation: Beliefs serve emotional stabilization, not factual assessment
 - Field intensity disparities: Identity-resonant content creates stronger field effects than factual corrections
@@ -248,7 +248,7 @@ Research by Nyhan and Reifler (2010) on the "backfire effect," Kahan et al. (201
 
 ### 8.4 Identity-Protective Cognition
 
-Subjects often reject information that threatens valued identities. AFE explains this through:
+Subjects often reject information that threatens valued identities. AE explains this through:
 
 - Identity as affective strategy: Identity functions as emotional stabilization, making threats to identity directly threatening to emotional cohesion
 - Symbolic field interference: Identity-threatening information creates disruptive field effects that trigger defensive modulation
@@ -258,7 +258,7 @@ Research by Kahan (2013) on identity-protective cognition, Sherman and Cohen (20
 
 ## 9. Testable Predictions
 
-AFE generates several testable predictions:
+AE generates several testable predictions:
 
 1. **Field Intensity Variance**: The same symbolic content presented through different media or contexts will produce measurably different belief responses, with variance proportional to the difference in field properties.
 
@@ -280,7 +280,7 @@ These predictions can be tested through experimental designs utilizing survey me
 
 ### 10.1 Education and Cognitive Development
 
-AFE suggests approaches to education that acknowledge the affective foundations of belief:
+AE suggests approaches to education that acknowledge the affective foundations of belief:
 
 - Developing field awareness as a core metacognitive skill
 - Training the Conscious Engagement Process through sustained practice
@@ -302,7 +302,7 @@ These approaches could strengthen democratic institutions by increasing citizen 
 
 ### 10.3 Therapeutic Applications
 
-AFE offers therapeutic implications aligned with but extending beyond existing approaches:
+AE offers therapeutic implications aligned with but extending beyond existing approaches:
 
 - Treating belief rigidity as emotional stabilization rather than cognitive error
 - Developing interventions that address field dynamics rather than content alone
@@ -324,7 +324,7 @@ These questions require interdisciplinary engagement among ethicists, media scho
 
 ## 11. Limitations and Future Directions
 
-While AFE offers a powerful framework for understanding belief, several limitations and open questions remain:
+While AE offers a powerful framework for understanding belief, several limitations and open questions remain:
 
 - The challenge of operationalizing and measuring symbolic fields in real-world contexts
 - The relationship between neurobiological processes and field effects
@@ -342,11 +342,11 @@ Future research should address these limitations through interdisciplinary colla
 
 ## 12. Conclusion: From Representation to Modulation
 
-Affective Field Epistemics represents a paradigm shift in how we understand belief formation—moving from representational models to field-based dynamics grounded in emotional necessity. By reconceptualizing belief as a product of affective modulation rather than rational assessment, AFE offers new explanatory pathways for understanding the complexity of human cognition.
+Affective Epistemics represents a paradigm shift in how we understand belief formation—moving from representational models to field-based dynamics grounded in emotional necessity. By reconceptualizing belief as a product of affective modulation rather than rational assessment, AE offers new explanatory pathways for understanding the complexity of human cognition.
 
 The framework's multi-layered approach—from the affective foundations of the Subject through the field dynamics of symbols to the strategic deployment by Observer-Generators—provides a comprehensive account of how beliefs emerge, stabilize, and transform. The recognition of the Conscious Engagement Process as continuously available yet rarely engaged offers a nuanced understanding of human agency within these dynamics.
 
-AFE establishes a foundation for more sophisticated approaches to understanding how humans navigate an increasingly complex symbolic environment while offering practical implications for education, therapy, media literacy, and ethics. In a world of accelerating symbolic complexity and strategic manipulation, this framework provides conceptual tools for both understanding and potentially transforming our relationship to belief.
+AE establishes a foundation for more sophisticated approaches to understanding how humans navigate an increasingly complex symbolic environment while offering practical implications for education, therapy, media literacy, and ethics. In a world of accelerating symbolic complexity and strategic manipulation, this framework provides conceptual tools for both understanding and potentially transforming our relationship to belief.
 
 ## References
 
