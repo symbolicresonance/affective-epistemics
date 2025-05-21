@@ -7,11 +7,11 @@ License details: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ---
 
-# Affective Epistemics Framework — (Canonical Structure v7.2)
+# Affective Epistemics Framework (Canonical Structure v7.2)
 
-────────────────────────────
+
 ## Living System Summary
-────────────────────────────
+
 
 The Subject exists within an unstable environment of unknowable phenomena.  
 Through sensation, external signals are transformed into internal affective responses.  
@@ -43,9 +43,9 @@ shaped by sensation, reinforced by symbolic architectures,
 and rationalized afterward to maintain the illusion of reasoned choice.
 
 
-────────────────────────────
+
 ## Layer One: Core Ontology
-────────────────────────────
+
 
 ### 1. The Subject  
 The Subject is a living, dynamic organism whose internal affective field seeks ongoing modulation toward emotionally rewarding configurations necessary for survival within an unstable environment.
@@ -70,9 +70,9 @@ Behavior emerges not as rational action, but as outward modulation of internal a
 
 _This layer establishes the foundational components of the framework: the Subject as an emotionally-driven organism engaging with an environment that is only accessible through affectively-filtered sensation. These components interact in a continuous process of modulation seeking emotional reward rather than factual accuracy._
 
-─────────────────────────────────────────────
+
 ## Layer Two: Symbolic Modulation & Identity
-─────────────────────────────────────────────
+
 
 ### 1. Emotional Reward  
 The Subject seeks not emotional peace, but emotionally rewarding configurations — affective states that provide relief, intensity, or coherence relative to internal pressures, regardless of their external consequences.
@@ -98,9 +98,9 @@ Rational agency does not precede emotion — it emerges as an unstable condition
 
 _Building on the Core Ontology, this layer explores how the Subject's internal emotional processes interact with symbolic systems. It reveals how identity and rationality emerge not as fixed essences but as dynamic strategies for emotional stabilization, while introducing the Conscious Engagement Process as a potential avenue for reweighting these automatic patterns._
 
-─────────────────────────────────────────────
+
 ## Layer Three: The Conscious Engagement Process
-─────────────────────────────────────────────
+
 
 ### 1. Continuous Availability
 This process is intrinsically available at all times as a fundamental capacity of consciousness, though rarely engaged.
@@ -125,9 +125,9 @@ The process enables the Subject to navigate symbolic environments with greater a
 
 _Layer Three expands on the Conscious Engagement Process introduced in Layer Two, detailing how this process functions as a continuously available capacity that can modify the automatic emotional modulation patterns. This layer addresses the possibility of conscious participation in what is typically an unconscious process, establishing the conditions under which Subjects can engage in more deliberate symbolic navigation._
 
-─────────────────────────────────────────────
+
 ## Derived Theorems on Symbolic Stabilization
-─────────────────────────────────────────────
+
 
 These derived theorems describe emergent symbolic phenomena that arise when the Subject recursively modulates affect within saturated symbolic environments. They are not additional axioms. They are structural consequences.
 
@@ -163,9 +163,9 @@ The Subject cannot reweight symbolic intake without first experiencing destabili
 
 _These theorems represent consequential patterns that emerge from the interaction of the first three layers. They describe how belief systems form, stabilize, and resist change as a result of their emotional foundations, providing insight into why factual corrections often fail to alter established beliefs and why ethical transformations typically require destabilizing experiences._
 
-─────────────────────────────────────────────
+
 ## Layer Four: Symbol Space and Field Dynamics
-─────────────────────────────────────────────
+
 
 ### 0. Core Premise
 
@@ -243,9 +243,9 @@ Symbol Space is not a place. It is a field continuum of recursive modulation.
 
 _Layer Four shifts focus from the internal dynamics of the Subject to the field properties of symbols themselves. It introduces the field theory approach to understanding how symbols function not as carriers of meaning but as exerters of modulatory influence. This layer provides a systematic framework for analyzing how beliefs emerge as dynamic resolutions rather than fixed representations, explaining phenomena like context-dependent belief expression and divergent interpretations of identical information._
 
-─────────────────────────────────────────────
+
 ## Layer Five: Observer-Generator Framework
-─────────────────────────────────────────────
+
 
 ### 0. Core Premise
 
@@ -361,9 +361,9 @@ Symbol Space is not a neutral medium. It is a contested field of competitive gen
 
 _Layer Five completes the framework by examining how symbolic fields are strategically produced and deployed. While previous layers focused on how Subjects receive and process symbolic content, this layer addresses the systematic generation of symbolic fields by various entities. It reveals symbolic environments not as neutral or random but as deliberately constructed and continuously optimized through feedback mechanisms, explaining phenomena like filter bubbles, media manipulation, and ideological polarization._
 
-─────────────────────────────────────────────
+
 ## Derived Theorems on Symbolic Field Ecology
-─────────────────────────────────────────────
+
 
 These derived theorems describe emergent phenomena that arise in the complete symbolic field ecology where Subjects and Observer-Generators interact. They are not additional axioms. They are structural consequences of the integrated system.
 
