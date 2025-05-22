@@ -4,7 +4,7 @@ All rights reserved under the Creative Commons Attribution–NonCommercial–NoD
 This document is part of the Affective Epistemics research initiative and may be shared freely under the CC BY-NC-ND 4.0 license. You may not remix or alter this work. Attribution required: Institute for a New Humanism through Adaptive Ethics (INHAE), symbolicresonance.github.io
 
 License details: https://creativecommons.org/licenses/by-nc-nd/4.0/
----
+
 # Affective Epistemics Framework (Canonical Structure v8.0)
 
 ## Living System Summary
