@@ -1,3 +1,11 @@
+© 2025 Institute for a New Humanism through Adaptive Ethics (INHAE)
+All rights reserved under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License.
+
+This document is part of the Affective Epistemics research initiative and may be shared freely under the CC BY-NC-ND 4.0 license. You may not remix or alter this work. Attribution required: Institute for a New Humanism through Adaptive Ethics (INHAE), symbolicresonance.github.io
+
+License details: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+
 # Observer-Generator Theory: The Universal Mechanics of Belief Engineering
 
 ## Abstract
